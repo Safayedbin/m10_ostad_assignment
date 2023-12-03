@@ -56,7 +56,8 @@ PS E:\New_folder\MigrationAssignment> git remote add origin "https://github.com/
 PS E:\New_folder\MigrationAssignment> git add .
 
 PS E:\New_folder\MigrationAssignment> git commit -m "firstcommit"
----------------------------
+
+
 [master (root-commit) 415f9fa] firstcommit
  78 files changed, 11171 insertions(+)
  create mode 100644 .editorconfig
@@ -135,7 +136,7 @@ PS E:\New_folder\MigrationAssignment> git commit -m "firstcommit"
  create mode 100644 tests/Feature/ExampleTest.php
  create mode 100644 tests/Unit/ExampleTest.php
  create mode 100644 vite.config.js
----------------------------------------------
+
 PS E:\New_folder\MigrationAssignment> git push origin master
 Enumerating objects: 101, done.
 Counting objects: 100% (101/101), done.
