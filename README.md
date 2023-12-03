@@ -1,4 +1,4 @@
-#terminal commands 
+# terminal commands 
 
 
 PS E:\New_folder\MigrationAssignment> php artisan Create_product_table
